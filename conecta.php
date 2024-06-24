@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "39041692"; // sua senha do MySQL
+$password = ""; // sua senha do MySQL
 $dbname = "livraria"; // nome do banco de dados
 
 // Criando a conexão
